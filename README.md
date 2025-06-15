@@ -33,7 +33,7 @@ To get started with WebExtractor, you need to install it on your machine. You ca
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/JonathanGinz/WebExtractor-Official.git
-    cd WebExtractor
+    cd WebExtractor-Official
    ```
 
 2. **Install Required Libraries**:
